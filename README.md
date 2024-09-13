@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on Improving my data analysis skills
+- 🌱 I’m currently learning advanced data visualization and power query 
+- 👯 I’m looking to collaborate on open source project
+- 🤔 I’m looking for help with real-world applications of my data skills
 
 <!--
 **OsundeWatson/OsundeWatson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
