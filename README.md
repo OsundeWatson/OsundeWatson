@@ -1,4 +1,5 @@
 ## Hi there 👋
+# About Me:
 - 🔭 I’m currently working on Improving my data analysis skills
 - 🌱 I’m currently learning advanced data visualization and power query 
 - 👯 I’m looking to collaborate on open source project
